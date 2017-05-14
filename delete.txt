@@ -1,1 +1,0 @@
-This file using for git rm
